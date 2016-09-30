@@ -11,14 +11,14 @@
     "url": "https://github.com/SamDecrock/"
   },
   "bugs": {
-    "url": "https://github.com/SamDecrock/node-http-ntlm/issues"
+    "url": "https://github.com/ccarnero/node-http-ntlm/issues"
   },
   "engines": {
     "node": ">=0.8.0"
   },
   "repository": {
     "type": "git",
-    "url": "git://github.com/SamDecrock/node-http-ntlm.git"
+    "url": "git://github.com/ccarnero/node-http-ntlm.git"
   },
   "main": "./httpntlm",
   "licenses": [
